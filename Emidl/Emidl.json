@@ -1,0 +1,11 @@
+{
+  "Author": "Dominic 'dope250'",
+  "Name": "Emidl",
+  "Punchline": "Doing Emotes when idle standing",
+  "Description": "A description that shows up in /xlplugins. List any major slash-command(s).",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "idle",
+    "emote"
+  ]
+}
